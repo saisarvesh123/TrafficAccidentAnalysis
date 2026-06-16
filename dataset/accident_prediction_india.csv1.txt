@@ -1,0 +1,5 @@
+State Name,City Name,Year,Month,Day of Week,Time of Day,Accident Severity,Number of Vehicles Involved,Vehicle Type Involved,Number of Casualties,Number of Fatalities,Weather Conditions,Road Type,Road Condition,Lighting Conditions,Traffic Control Presence,Speed Limit (km/h),Driver Age,Driver Gender,Driver License Status,Alcohol Involvement,Accident Location Details
+Maharashtra,Mumbai,2023,Jan,Monday,08:00,Severe,2,Car,3,1,Rainy,Highway,Good,Day,Yes,80,35,M,Valid,No,Near Bridge
+Delhi,New Delhi,2023,Feb,Friday,22:00,Moderate,1,Bike,1,0,Clear,Urban,Good,Night,Yes,50,28,F,Valid,Yes,Intersection
+Karnataka,Bengaluru,2022,Mar,Sunday,14:00,Minor,3,Car,2,0,Sunny,Rural,Fair,Day,No,60,40,M,Valid,No,Highway Curve
+Tamil Nadu,Chennai,2023,Apr,Wednesday,18:30,Severe,2,Truck,4,2,Fog,Road,Good,Night,Yes,70,45,F,Invalid,Yes,Market Road
